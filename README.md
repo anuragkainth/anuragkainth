@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **DSA in C++**
 
-- 📫 How to reach me **anuragkaith07@gmail.com**
+- 📫 How to reach me **anuragkainth07@gmail.com**
 
 <!-- - 📄 Know about my experiences [shorturl.at/ivEHZ](shorturl.at/ivEHZ) -->
 

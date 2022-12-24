@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **anuragkaith07@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/ivEHZ](shorturl.at/ivEHZ)
+<!-- - 📄 Know about my experiences [shorturl.at/ivEHZ](shorturl.at/ivEHZ) -->
 
 ## 🌐 Connect with me:
 <p align="left">

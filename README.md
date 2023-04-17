@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **anuragkainth07@gmail.com**
 
+- ⚡ Know all about me here **https://linktr.ee/anuragkainth11**
+
 <!-- - 📄 Know about my experiences [shorturl.at/ivEHZ](shorturl.at/ivEHZ) -->
 
 ## 🌐 Connect with me:

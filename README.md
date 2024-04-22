@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Kainth</h1>
-<h3 align="center">Flutter Application Developer</h3>
+<h3 align="center">Mobile and Web Application Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragkainth&label=Profile%20views&color=0e75b6&style=flat" alt="anuragkainth" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anuragkainth](https://github.com/anuragkainth)
 
-- 💬 Ask me about **DSA in C++**
+- 💬 Ask me about **Flutter & DSA in C++**
 
 - 📫 How to reach me **anuragkainth07@gmail.com**
 
